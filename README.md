@@ -30,6 +30,7 @@ A lightweight, customizable Java-based shell that emulates a command-line interf
 
 ## 🔗 Examples
 
+```bash
 $ echo "Java CLI"
 Java CLI
 
@@ -47,6 +48,7 @@ $ echo "Java" > file1.txt
 $ echo "Shell" >file2.txt
 
 $ cat file1.txt file2.txt
-"Java Shell"
+Java Shell
 
-$exit 0
+$ exit 0
+
